@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - type != "moc"
+        - type != "system"
+        - '!file.path.startsWith("_templates")'
+        - '!file.path.startsWith("_bases")'
+    order:
+      - file.name
+      - title
+      - type
+    columnSize:
+      note.title: 290

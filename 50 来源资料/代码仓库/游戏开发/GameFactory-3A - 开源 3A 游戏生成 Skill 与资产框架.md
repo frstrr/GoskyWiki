@@ -23,7 +23,7 @@ summary: 开源 3A 游戏生成 Skill 与资产框架。由 Coding Agent 读取 
 related:
   - [[40 知识导航/游戏开发|游戏开发]]
   - [[30 知识资源/游戏开发/Mixamo - 免费人形角色动画平台|Mixamo]]
-  - [[50 来源资料/代码仓库/AI/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]
+  - [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]
   - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
 ---
 
@@ -165,5 +165,5 @@ GameFactory-3A/
 
 - [[40 知识导航/游戏开发|游戏开发]]
 - [[30 知识资源/游戏开发/Mixamo - 免费人形角色动画平台|Mixamo - 免费人形角色动画平台]]
-- [[50 来源资料/代码仓库/AI/img2threejs - 图片转程序化 Three.js 模型|img2threejs - 图片转程序化 Three.js 模型]]
+- [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs - 图片转程序化 Three.js 模型]]
 - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]

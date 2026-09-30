@@ -20,7 +20,7 @@ source_date: 2026-09-28
 summary: 经人工精选、生产环境多次校验的 OPML 订阅合集；覆盖 AI、工程、安全、科研、博客、视频、播客等，推荐从 Top 200 起步，完整目录约 718 源；许可 CC0-1.0，可配合任意 RSS 阅读器或 Tidings 客户端导入。
 related:
   - "[[50 来源资料/代码仓库/其他/awesome-selfhosted - 自托管软件精选列表|awesome-selfhosted - 自托管软件精选列表]]"
-  - "[[50 来源资料/代码仓库/AI/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]"
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]"
 ---
 
 # tidings-rss - 精选可验证 OPML 订阅合集
@@ -79,7 +79,7 @@ related:
 - 想快速搭一套**高质量中英技术/AI 资讯订阅**，不想自己从零搜源
 - 需要按主题导入（只关心 AI、安全、播客等），而不是一次塞满上千订阅
 - 给自建 FreshRSS / Miniflux / 任意阅读器提供**可校验的 OPML 起点**
-- 为 Agent / 信息工作流准备「可信公开信息源」清单（可与 [[50 来源资料/代码仓库/AI/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach]] 等上网能力层互补）
+- 为 Agent / 信息工作流准备「可信公开信息源」清单（可与 [[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach]] 等上网能力层互补）
 
 ## 链接
 
@@ -106,4 +106,4 @@ related:
 ## Related
 
 - [[50 来源资料/代码仓库/其他/awesome-selfhosted - 自托管软件精选列表|awesome-selfhosted - 自托管软件精选列表]]
-- [[50 来源资料/代码仓库/AI/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]
+- [[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]

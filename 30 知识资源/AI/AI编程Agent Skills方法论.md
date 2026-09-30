@@ -18,7 +18,7 @@ moc:
   - [[40 知识导航/AI 编程 Agent]]
   - [[40 知识导航/AI 工具使用]]
 source:
-  - [[50 来源资料/代码仓库/AI/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+  - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
 related:
   - [[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]
 ---
@@ -96,6 +96,6 @@ AI编程代理有四个典型失败模式：对齐偏差、输出冗余、代码
 
 ## Related
 
-- [[50 来源资料/代码仓库/AI/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+- [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
 - [[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]
 - [[40 知识导航/AI 工具使用|AI 工具使用]]

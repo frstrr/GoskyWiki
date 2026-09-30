@@ -22,8 +22,8 @@ related:
   - "[[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]"
   - "[[40 知识导航/Obsidian 与 AI|Obsidian 与 AI]]"
   - "[[50 来源资料/代码仓库/其他/Memos - 自托管轻量笔记工具|Memos - 自托管轻量笔记工具]]"
-  - "[[50 来源资料/代码仓库/AI/MemPalace - 本地优先 AI 记忆系统|MemPalace - 本地优先 AI 记忆系统]]"
-  - "[[50 来源资料/代码仓库/AI/WeKnora - LLM 知识管理框架|WeKnora - LLM 知识管理框架]]"
+  - "[[50 来源资料/代码仓库/AI/RAG知识与记忆/MemPalace - 本地优先 AI 记忆系统|MemPalace - 本地优先 AI 记忆系统]]"
+  - "[[50 来源资料/代码仓库/AI/RAG知识与记忆/WeKnora - LLM 知识管理框架|WeKnora - LLM 知识管理框架]]"
 ---
 
 # awesome-okf - 开放知识格式中文资料与工具
@@ -156,6 +156,6 @@ myokf to-web ./kb -o kb.html
 - [[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]
 - [[40 知识导航/Obsidian 与 AI|Obsidian 与 AI]]
 - [[50 来源资料/代码仓库/其他/Memos - 自托管轻量笔记工具|Memos - 自托管轻量笔记工具]]
-- [[50 来源资料/代码仓库/AI/MemPalace - 本地优先 AI 记忆系统|MemPalace - 本地优先 AI 记忆系统]]
-- [[50 来源资料/代码仓库/AI/WeKnora - LLM 知识管理框架|WeKnora - LLM 知识管理框架]]
+- [[50 来源资料/代码仓库/AI/RAG知识与记忆/MemPalace - 本地优先 AI 记忆系统|MemPalace - 本地优先 AI 记忆系统]]
+- [[50 来源资料/代码仓库/AI/RAG知识与记忆/WeKnora - LLM 知识管理框架|WeKnora - LLM 知识管理框架]]
 - [[50 来源资料/代码仓库/其他/awesome-selfhosted - 自托管软件精选列表|awesome-selfhosted - 自托管软件精选列表]]

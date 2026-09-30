@@ -34,9 +34,9 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 
 ## 来源资料
 
-- [[50 来源资料/代码仓库/AI/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+- [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
 
-- [[50 来源资料/代码仓库/AI/Superpowers - Agent Skills 框架|Superpowers - Agent Skills 框架]]：obra 开源的 Agentic Skills 框架与完整 SDLC 方法论，279k+ Stars，支持 Cursor/Claude Code/Codex 等 15+ 平台
+- [[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers - Agent Skills 框架]]：obra 开源的 Agentic Skills 框架与完整 SDLC 方法论，279k+ Stars，支持 Cursor/Claude Code/Codex 等 15+ 平台
 
 ## 后续可扩展方向
 
@@ -47,12 +47,12 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 - OpenCode、Claude Code、Codex 的实际使用复盘
 
 
-- [[50 来源资料/代码仓库/AI/Agent Substrate - AI Agent 大规模运行时|Agent Substrate - AI Agent 大规模运行时]]：Google 开源 Agent 大规模运行时，K8s 之上 30 倍超售、亚秒级挂起恢复
+- [[50 来源资料/代码仓库/AI/Agent运行时与编排/Agent Substrate - AI Agent 大规模运行时|Agent Substrate - AI Agent 大规模运行时]]：Google 开源 Agent 大规模运行时，K8s 之上 30 倍超售、亚秒级挂起恢复
 
-- [[50 来源资料/代码仓库/AI/JIT-Agent - 即时生成 Agent Harness|JIT-Agent - 即时生成 Agent Harness]]：按任务即时生成 agent harness（Model-as-a-Harness），四模块结构化 + 测试时进化
-
-
-- [[50 来源资料/代码仓库/AI/Luvus - AI Agent 任务控制中心|Luvus - AI Agent 任务控制中心]]：跨平台 Rust 终端多路复用器，AI 编码 Agent 任务控制中心，持久 session + worktree 编排 + UHP 1.0
+- [[50 来源资料/代码仓库/AI/Agent运行时与编排/JIT-Agent - 即时生成 Agent Harness|JIT-Agent - 即时生成 Agent Harness]]：按任务即时生成 agent harness（Model-as-a-Harness），四模块结构化 + 测试时进化
 
 
-- [[50 来源资料/代码仓库/AI/PAXM - Coding Agent 中立记忆适配器|PAXM - Coding Agent 中立记忆适配器]]：本地优先、provider 中立的跨 Agent 记忆适配器（SQLite 默认；Codex/Claude/OpenCode/Cursor/MCP）
+- [[50 来源资料/代码仓库/AI/Agent运行时与编排/Luvus - AI Agent 任务控制中心|Luvus - AI Agent 任务控制中心]]：跨平台 Rust 终端多路复用器，AI 编码 Agent 任务控制中心，持久 session + worktree 编排 + UHP 1.0
+
+
+- [[50 来源资料/代码仓库/AI/RAG知识与记忆/PAXM - Coding Agent 中立记忆适配器|PAXM - Coding Agent 中立记忆适配器]]：本地优先、provider 中立的跨 Agent 记忆适配器（SQLite 默认；Codex/Claude/OpenCode/Cursor/MCP）

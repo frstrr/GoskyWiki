@@ -14,8 +14,8 @@ summary: 交叉分类索引。正文保存在 AI 分类下，本页仅作游戏�
 
 # awesome-astra-prompts - GPT-6 Astra 提示词精选
 
-> 本文档为交叉分类索引，正文见源文件：[[50 来源资料/代码仓库/AI/awesome-astra-prompts - GPT-6 Astra 提示词精选|awesome-astra-prompts - GPT-6 Astra 提示词精选]]
+> 本文档为交叉分类索引，正文见源文件：[[50 来源资料/代码仓库/AI/Skills与方法论/awesome-astra-prompts - GPT-6 Astra 提示词精选|awesome-astra-prompts - GPT-6 Astra 提示词精选]]
 
-源文件路径：`50 来源资料/代码仓库/AI/awesome-astra-prompts - GPT-6 Astra 提示词精选.md`
+源文件路径：`50 来源资料/代码仓库/AI/Skills与方法论/awesome-astra-prompts - GPT-6 Astra 提示词精选.md`
 
 归入本分类原因：该 Awesome 列表大量收录游戏原型、Unity/Unreal/浏览器可玩示例与交互世界提示词，适合作为游戏开发侧的开源资源入口。

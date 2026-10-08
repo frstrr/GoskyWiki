@@ -4,7 +4,7 @@ title: AI 工具使用
 type: moc
 status: active
 created: 2026-04-10
-updated: 2026-09-24
+updated: 2026-09-30
 tags:
   - 导航/人工智能
   - 主题/AI工具
@@ -44,3 +44,4 @@ summary: 汇总 AI 编码助手、LLM API 使用技巧、成本优化、prompt �
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Bright Data CLI - 终端网页数据采集工具|Bright Data CLI - 终端网页数据采集工具]]
 
 - [[50 来源资料/代码仓库/AI/RAG知识与记忆/PAXM - Coding Agent 中立记忆适配器|PAXM - Coding Agent 中立记忆适配器]]：跨 Coding Agent 的持久记忆适配器，默认本地 SQLite，可换 Mem0/Zep 等 provider
+- [[50 来源资料/代码仓库/AI/UI设计与美学/Ming-Image-0.1-Design - 视觉设计生成与图层分解|Ming-Image-0.1-Design - 视觉设计生成与图层分解]]：蚂蚁百灵 6B 文生设计 + 图层分解 + UI/PPT Skills

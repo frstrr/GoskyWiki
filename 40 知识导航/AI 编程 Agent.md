@@ -4,7 +4,7 @@ title: AI 编程 Agent
 type: moc
 status: active
 created: 2026-06-18
-updated: 2026-09-24
+updated: 2026-10-08
 tags:
   - 导航/人工智能
   - 主题/AI编程Agent
@@ -56,3 +56,4 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 
 
 - [[50 来源资料/代码仓库/AI/RAG知识与记忆/PAXM - Coding Agent 中立记忆适配器|PAXM - Coding Agent 中立记忆适配器]]：本地优先、provider 中立的跨 Agent 记忆适配器（SQLite 默认；Codex/Claude/OpenCode/Cursor/MCP）
+- [[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenAgentCore - OpenAI Agents API 自托管运行时|OpenAgentCore - OpenAI Agents API 自托管运行时]]：MiniMax 开源自托管 OpenAI Agents API，多原生 Harness（Codex/Claude Code/MiniMax Code）+ 可插拔沙箱

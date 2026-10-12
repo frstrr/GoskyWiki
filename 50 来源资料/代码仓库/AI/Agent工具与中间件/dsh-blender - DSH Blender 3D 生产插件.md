@@ -12,7 +12,7 @@ tags:
   - 主题/Blender
   - 主题/3D建模
   - 主题/Skills
-  - 主题/DeepSeek Harness
+  - 主题/DeepSeek-Harness
   - 主题/开源资源
 author: CheshireJCat
 source_type: repo
@@ -21,17 +21,17 @@ source_author: CheshireJCat
 source_date: 2026-08-14
 summary: DeepSeek Harness（DSH）插件 dsh-blender：无需打开 Blender GUI 或安装 BlenderMCP，由插件自行拉起后台 Blender 进程，覆盖粗模→渲染验收→细化→校验→导出全流程；提供 30 个 Skill、13 个工具与 26 个分析 Helper。
 related:
-  - [[50 来源资料/代码仓库/游戏开发/GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架|GameFactory-3A]]
-  - [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]
-  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/BrowserSkill - AI Agent 登录态浏览器操控|BrowserSkill]]
-  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/TeamAI CLI - 团队 AI Harness 统一管理|TeamAI CLI]]
+  - [[50 来源资料/代码仓库/游戏开发/GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架|GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架]]
+  - [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs - 图片转程序化 Three.js 模型]]
+  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/BrowserSkill - AI Agent 登录态浏览器操控|BrowserSkill - AI Agent 登录态浏览器操控]]
+  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/TeamAI CLI - 团队 AI Harness 统一管理|TeamAI CLI - 团队 AI Harness 统一管理]]
   - [[40 知识导航/游戏开发|游戏开发]]
   - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
   - [[40 知识导航/AI 工具使用|AI 工具使用]]
 aliases:
   - CheshireJCat/blender
   - dsh-blender
-  - blender DSH 插件
+  - blender-DSH-插件
 ---
 
 # dsh-blender - DSH Blender 3D 生产插件
@@ -113,4 +113,37 @@ npx @deepseek-ai/dsh plugin --profile web add github:CheshireJCat/blender#v0.2.2
 ```bash
 npx @deepseek-ai/dsh plugin --profile headless add .
 npx @deepseek-ai/dsh --profile headless \
-  使用
+  "使用 create-3d-model 在 artifacts 下创建一个低多边形蓝色立方体，渲染预览并导出 GLB。"
+```
+
+## 主要工具一览
+
+- `blender_status`：检查 Blender、分析 Python、Skill/Helper 与 workspace
+- `blender_scene_info` / `blender_object_info`：只读场景与对象级几何/材质/UV/动画信息
+- `blender_import` / `blender_export`：便携格式 ↔ 版本化 `.blend`
+- `blender_python`：执行小段受审 `bpy`/`bmesh` 并保存版本化源文件（高权限，可配置关闭）
+- `blender_preview` / `blender_render` / `blender_render_frames`：无相机预览与正式渲染证据
+- `blender_validate_scene` / `blender_validate_export`：目标向审计 + 干净进程回读
+- `blender_helper_catalog` / `blender_helper_run`：发现并执行 26 个 Helper
+
+## 配置要点（`cordis.patch.yml`）
+
+常用开关：`blenderExecutable`、`analysisPythonExecutable`、`restrictToWorkspace`、`enablePython`、`enableHelpers`、`enableMaintenanceHelpers`、`registerSkill`、`registerModuleSkills`、超时与输出长度上限。
+
+## 安全注意
+
+- `blender_python` 权限等同在 Blender 内跑本地 Python：只应处理可信建模代码
+- 不要用它下载资源、碰凭据、装包、起无关进程或改全局偏好
+- 安装即在本机以你的权限运行第三方代码；安装前审阅源码，陌生插件先在无密钥环境试用
+
+## 相关链接
+
+| 类型 | URL |
+|------|-----|
+| GitHub | https://github.com/CheshireJCat/blender |
+| Issues | https://github.com/CheshireJCat/blender/issues |
+| npm | https://www.npmjs.com/package/dsh-blender |
+| DSH 插件页 | https://plugin.dshx.dev/item/CheshireJCat/blender/ |
+| DeepSeek Harness | https://github.com/deepseek-ai/deepseek-harness |
+| awesome-dsh-plugin | https://github.com/awesome-dsh-plugin/awesome-dsh-plugin |
+| 头条介绍文 | https://www.toutiao.com/article/7693868601983468070/ |

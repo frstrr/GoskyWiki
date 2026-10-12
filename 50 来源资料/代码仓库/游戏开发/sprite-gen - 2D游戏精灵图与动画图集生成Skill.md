@@ -21,7 +21,13 @@ source_author: aldegad
 source_date: 2026-10-08
 summary: 面向 Codex/Claude 的 Python CLI 与 Agent Skill：输入一张基准静帧，经组件行管线生成干净的 2D 游戏精灵图集与透明运动循环，输出真实 alpha、runtime atlas 与机器可读 frame_layout。
 related:
-  - [[40
+  - "[[40 知识导航/游戏开发|游戏开发]]"
+  - "[[50 来源资料/代码仓库/游戏开发/GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架|GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架]]"
+  - "[[30 知识资源/游戏开发/Mixamo - 免费人形角色动画平台|Mixamo - 免费人形角色动画平台]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+---
+
+# sprite-gen - 2D游戏精灵图与动画图集生成Skill
 
 ## Source summary
 
@@ -109,7 +115,7 @@ sprite-gen video-set --base side=still.png --states idle,walk,run,jump,attack --
 **作为 Codex Skill 安装**
 
 ```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \\\\
   --repo aldegad/sprite-gen --path . --name sprite-gen
 ```
 

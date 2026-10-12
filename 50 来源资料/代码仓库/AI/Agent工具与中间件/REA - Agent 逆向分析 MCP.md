@@ -19,13 +19,13 @@ source_type: repo
 source_url: https://github.com/morluto/rea
 source_author: morluto
 source_date: 2026-10-12
-summary: 面向 AI Agent 的逆向分析 MCP/CLI（npm: rea-agents）：把 Ghidra/Hopper/IDA 等引擎与 JS/Electron、.NET、APK、浏览器等检查能力接到 Claude Code / Cursor / Codex 等 Agent，本机分析并返回带证据的结论。
+summary: "面向 AI Agent 的逆向分析 MCP/CLI（npm 包 rea-agents）：把 Ghidra/Hopper/IDA 等引擎与 JS/Electron、.NET、APK、浏览器等检查能力接到 Claude Code / Cursor / Codex 等 Agent，本机分析并返回带证据的结论。"
 related:
-  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/BrowserSkill - AI Agent 登录态浏览器操控|BrowserSkill - AI Agent 登录态浏览器操控]]
-  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]
-  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/BrowserSkill - AI Agent 登录态浏览器操控|BrowserSkill - AI Agent 登录态浏览器操控]]"
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]"
+  - "[[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
 ---
 
 # REA - Agent 逆向分析 MCP

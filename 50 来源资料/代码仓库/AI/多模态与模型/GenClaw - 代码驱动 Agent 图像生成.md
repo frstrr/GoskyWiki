@@ -19,11 +19,11 @@ source_author: yejy53
 source_date: 2026-09-24
 summary: 代码驱动的 Agent 图像生成：用 SVG/HTML/Python 等可执行草图做可控画布，再调用文生图/图生图模型渲染；规划-工具-反思闭环，适合复杂构图、长文本海报与世界知识 grounding。
 related:
-  - [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]
-  - [[50 来源资料/代码仓库/AI/多模态与模型/OpenMontage - Agent 化视频制作系统|OpenMontage]]
-  - [[50 来源资料/代码仓库/AI/UI设计与美学/handraw-style - 手绘风格编号画廊与双语提示词|handraw-style]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
+  - "[[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]"
+  - "[[50 来源资料/代码仓库/AI/多模态与模型/OpenMontage - Agent 化视频制作系统|OpenMontage]]"
+  - "[[50 来源资料/代码仓库/AI/UI设计与美学/handraw-style - 手绘风格编号画廊与双语提示词|handraw-style]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
 ---
 
 # GenClaw - 代码驱动 Agent 图像生成

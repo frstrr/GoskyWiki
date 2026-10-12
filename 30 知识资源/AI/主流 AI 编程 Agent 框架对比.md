@@ -14,9 +14,9 @@ aliases:
   - OpenCode Codex Claude Code对比
 summary: 对 OpenCode、OpenAI Codex (CLI/Web)、Claude Code 三大 AI 编程 Agent 的核心架构、编排模式、记忆系统、扩展机制进行系统对比，评估各自的适用场景与优劣势。
 moc:
-  - [[40 知识导航/AI 编程 Agent]]
+  - "[[40 知识导航/AI 编程 Agent]]"
 related:
-  - [[30 知识资源/AI/OpenCode Agent 编排核心原理|OpenCode Agent 编排核心原理]]
+  - "[[30 知识资源/AI/OpenCode Agent 编排核心原理|OpenCode Agent 编排核心原理]]"
 ---
 
 # 主流 AI 编程 Agent 框架对比

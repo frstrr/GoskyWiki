@@ -21,10 +21,10 @@ source_author: OpenDCAI
 source_date: 2026-09-29
 summary: 开源 3A 游戏生成 Skill 与资产框架。由 Coding Agent 读取 Skills 并调用 Pipeline，把游戏需求变成生产级资产与引擎可运行代码；覆盖图片/3D/动作/音频/CG 视频，支持 UE5、Blender、Unity、Godot 4、three.js。
 related:
-  - [[40 知识导航/游戏开发|游戏开发]]
-  - [[30 知识资源/游戏开发/Mixamo - 免费人形角色动画平台|Mixamo]]
-  - [[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
+  - "[[40 知识导航/游戏开发|游戏开发]]"
+  - "[[30 知识资源/游戏开发/Mixamo - 免费人形角色动画平台|Mixamo]]"
+  - "[[50 来源资料/代码仓库/AI/UI设计与美学/img2threejs - 图片转程序化 Three.js 模型|img2threejs]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
 ---
 
 # GameFactory-3A - 开源 3A 游戏生成 Skill 与资产框架
@@ -147,7 +147,7 @@ GameFactory-3A/
   title        = {3AGameFactory: Open-Source 3A Game Generation Skills and Asset Framework},
   author       = {OpenDCAI},
   year         = {2026},
-  howpublished = {\\url{https://github.com/OpenDCAI/GameFactory-3A}},
+  howpublished = {\\\\url{https://github.com/OpenDCAI/GameFactory-3A}},
   note         = {Open-source software repository}
 }
 ```

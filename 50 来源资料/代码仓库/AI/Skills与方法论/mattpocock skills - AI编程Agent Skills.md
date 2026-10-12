@@ -16,8 +16,8 @@ source_author: Matt Pocock
 source_date: 2026-06-18
 summary: Matt Pocock 开源的 AI 编程 Agent Skills 集合，针对 Claude Code / Codex 等编码代理常见失败模式，提出一套小而可组合的工程纪律技能。
 related:
-  - [[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
+  - "[[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
 ---
 
 # mattpocock/skills - Skills for Real Engineers

@@ -17,10 +17,10 @@ source_author: Dietrich Gebert
 source_date: 2026-06
 summary: 给 Claude Code / Codex / Cursor 等 AI 编程 Agent 用的规则与 Skill 插件。用七级决策阶梯逼 Agent 先判断“该不该写、能不能复用、标准库/原生能力够不够”，再写最小可用实现；官方实测平均少写约 54% 代码且不牺牲安全校验。
 related:
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills]]
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills]]"
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
 ---
 
 # DietrichGebert/ponytail - 让 AI Agent 少写不必要代码
@@ -85,7 +85,7 @@ AI 编程常见痛点不是“不会写”，而是“太会写、太爱写”�
 
 | 命令 | 作用 |
 |------|------|
-| `/ponytail [lite\|full\|ultra\|off]` | 切换强度或关闭；无参数查看当前档 |
+| `/ponytail [lite\\|full\\|ultra\\|off]` | 切换强度或关闭；无参数查看当前档 |
 | `/ponytail-review` | 审查当前 diff 的过度工程，给出删除清单 |
 | `/ponytail-audit` | 整库审计过度工程 |
 | `/ponytail-debt` | 回收注释里的 `ponytail:` 延期捷径 |

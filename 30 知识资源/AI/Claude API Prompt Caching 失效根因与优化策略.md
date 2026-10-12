@@ -14,11 +14,11 @@ aliases:
   - LLM API 缓存失效
   - Prompt Caching 优化
 moc:
-  - [[40 知识导航/AI 工具使用]]
+  - "[[40 知识导航/AI 工具使用]]"
 summary: 分析 Claude API prompt caching 在长会话和高频工具调用场景下几乎无法命中的根因，以及短期拆会话、中期减少动态内容、长期本地中间层三层优化策略。
 related:
-  - [[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]
-  - [[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]
+  - "[[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]"
+  - "[[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]"
 ---
 
 # Claude API Prompt Caching 失效根因与优化策略

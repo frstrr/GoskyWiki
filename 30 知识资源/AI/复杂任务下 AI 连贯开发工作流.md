@@ -14,13 +14,13 @@ aliases:
   - AI 复杂任务 handoff
 summary: 复杂任务可以持续交给 AI 推进，但不应依赖超长聊天历史维持连续性，而应通过阶段划分、状态摘要、脚本化验证和 handoff note，把连贯性沉淀到代码与文档中。
 moc:
-  - [[40 知识导航/AI 工具使用]]
-  - [[40 知识导航/工作流]]
+  - "[[40 知识导航/AI 工具使用]]"
+  - "[[40 知识导航/工作流]]"
 source:
-  - [[30 知识资源/AI/Claude API Prompt Caching 失效根因与优化策略|Claude API Prompt Caching 失效根因与优化策略]]
+  - "[[30 知识资源/AI/Claude API Prompt Caching 失效根因与优化策略|Claude API Prompt Caching 失效根因与优化策略]]"
 related:
-  - [[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]
-  - [[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]
+  - "[[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]"
+  - "[[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]"
 ---
 
 # 复杂任务下 AI 连贯开发工作流

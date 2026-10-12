@@ -19,10 +19,10 @@ source_author: img2threejs
 source_date: 2026-07-15
 summary: 面向编码代理的图片→程序化 Three.js 技能：用参考图生成纯代码、可动画、质量门控的 THREE.Group 工厂，而非摄影测量或网格导出。强调 Token 高效（脚本做校验门控，模型只做视觉判断）。
 related:
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers - Agent Skills 框架]]
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers - Agent Skills 框架]]"
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]"
 ---
 
 # img2threejs - 图片转程序化 Three.js 模型

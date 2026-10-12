@@ -18,10 +18,10 @@ source_author: MiniMax-AI
 source_date: 2026-10-08
 summary: MiniMax 开源的自托管 OpenAI Agents API 实现（Go）。同一套 API 可挂 Codex / Claude Code / MiniMax Code 等原生 Harness，沙箱可选 Docker、microsandbox、E2B 或本机，组件协议化可替换。
 related:
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[30 知识资源/AI/主流 AI 编程 Agent 框架对比|主流 AI 编程 Agent 框架对比]]
-  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/Agent Substrate - AI Agent 大规模运行时|Agent Substrate - AI Agent 大规模运行时]]
-  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/JIT-Agent - 即时生成 Agent Harness|JIT-Agent - 即时生成 Agent Harness]]
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[30 知识资源/AI/主流 AI 编程 Agent 框架对比|主流 AI 编程 Agent 框架对比]]"
+  - "[[50 来源资料/代码仓库/AI/Agent运行时与编排/Agent Substrate - AI Agent 大规模运行时|Agent Substrate - AI Agent 大规模运行时]]"
+  - "[[50 来源资料/代码仓库/AI/Agent运行时与编排/JIT-Agent - 即时生成 Agent Harness|JIT-Agent - 即时生成 Agent Harness]]"
 ---
 
 # OpenAgentCore - OpenAI Agents API 自托管运行时

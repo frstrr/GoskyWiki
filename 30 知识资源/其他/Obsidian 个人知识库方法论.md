@@ -13,14 +13,14 @@ aliases:
   - Obsidian AI 知识库方法
 summary: 个人知识库最稳的做法是用少而稳的顶层目录管理流转阶段，用原子化 evergreen notes 管知识单元，用 MOC 做导航，并用统一 frontmatter 作为 AI 的检索层。
 moc:
-  - [[40 知识导航/Obsidian 与 AI]]
-  - [[40 知识导航/工作流]]
+  - "[[40 知识导航/Obsidian 与 AI]]"
+  - "[[40 知识导航/工作流]]"
 source:
   - https://obsidian.md/help/properties
   - https://obsidian.md/help/links
-  - [[50 来源资料/对话记录/2026-04-09 Obsidian 方法论对话沉淀|2026-04-09 Obsidian 方法论对话沉淀]]
+  - "[[50 来源资料/对话记录/2026-04-09 Obsidian 方法论对话沉淀|2026-04-09 Obsidian 方法论对话沉淀]]"
 related:
-  - [[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]
+  - "[[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]"
 ---
 
 # Obsidian 个人知识库方法论
@@ -60,7 +60,7 @@ related:
 
 ### 方法论要落到具体 vault 和流程里
 
-当前方法论已落地到 `D:\ObsidianWiki\selfWiki\个人笔记`，并通过统一模板、元数据规范和收录 skill 固化成可重复执行的流程。
+当前方法论已落地到 `D:\\ObsidianWiki\\selfWiki\\个人笔记`，并通过统一模板、元数据规范和收录 skill 固化成可重复执行的流程。
 
 ## Related
 

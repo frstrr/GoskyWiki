@@ -14,9 +14,9 @@ aliases:
   - OpenCode 编排机制
 summary: 基于 OpenCode 源码分析，说明其 Agent 编排如何通过 while 循环、LLM 流式调用、工具自动执行、分层 System Prompt 和上下文管理组成一个 LLM 驱动的自动状态机。
 moc:
-  - [[40 知识导航/AI 编程 Agent]]
+  - "[[40 知识导航/AI 编程 Agent]]"
 related:
-  - [[30 知识资源/AI/主流 AI 编程 Agent 框架对比|主流 AI 编程 Agent 框架对比]]
+  - "[[30 知识资源/AI/主流 AI 编程 Agent 框架对比|主流 AI 编程 Agent 框架对比]]"
 ---
 
 # OpenCode Agent 编排核心原理
@@ -226,7 +226,8 @@ const system = [
     ...(input.agent.prompt ? [input.agent.prompt] : SystemPrompt.provider(input.model)),
     ...input.system,  // 环境、指令、skills
     ...(input.user.system ? [input.user.system] : []),
-  ].filter((x) => x).join("\n")
+  ].filter((x) => x).join("\
+")
 ]
 ```
 
@@ -248,7 +249,8 @@ environment: Effect.fn("SystemPrompt.environment")(function* (model) {
       `  Platform: ${process.platform}`,
       `  Today's date: ${new Date().toDateString()}`,
       `</env>`,
-    ].join("\n"),
+    ].join("\
+"),
     // 项目引用（额外可访问的目录）
     references.length === 0 ? undefined : [
       "Project references provide additional directories...",
@@ -261,7 +263,8 @@ environment: Effect.fn("SystemPrompt.environment")(function* (model) {
         "  </reference>",
       ]),
       "</available_references>",
-    ].join("\n"),
+    ].join("\
+"),
   ]
 })
 ```
@@ -294,10 +297,12 @@ const system = Effect.fn("Instruction.system")(function* () {
 
   return [
     ...Array.from(paths).flatMap((item, i) =>
-      (files[i] ? [`Instructions from: ${item}\n${files[i]}`] : [])
+      (files[i] ? [`Instructions from: ${item}\
+${files[i]}`] : [])
     ),
     ...urls.flatMap((item, i) =>
-      (remote[i] ? [`Instructions from: ${item}\n${remote[i]}`] : [])
+      (remote[i] ? [`Instructions from: ${item}\
+${remote[i]}`] : [])
     ),
   ]
 })
@@ -334,7 +339,8 @@ skills: Effect.fn("SystemPrompt.skills")(function* (agent) {
     "Skills provide specialized instructions and workflows for specific tasks.",
     "Use the skill tool to load a skill when a task matches its description.",
     Skill.fmt(list, { verbose: true }),
-  ].join("\n")
+  ].join("\
+")
 })
 ```
 

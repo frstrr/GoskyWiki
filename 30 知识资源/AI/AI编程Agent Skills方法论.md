@@ -15,12 +15,12 @@ aliases:
   - Matt Pocock Skills方法论
 summary: AI编程代理的核心失败模式及对应纪律化技能体系。通过 Grilling 对齐、Shared Language 降熵、TDD 反馈循环、主动架构关注四个维度，把软件工程基本功转化为 AI 时代可复用的 Agent Skills。
 moc:
-  - [[40 知识导航/AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用]]
+  - "[[40 知识导航/AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用]]"
 source:
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]"
 related:
-  - [[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]
+  - "[[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]"
 ---
 
 # AI编程Agent Skills方法论

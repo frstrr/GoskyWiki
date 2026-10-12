@@ -17,10 +17,10 @@ source_author: Jesse Vincent / Prime Radiant
 source_date: 2025-10-09
 summary: 面向编码代理的完整软件开发方法论与可组合 Skills 框架。通过自动触发的技能链（头脑风暴→设计→计划→子代理执行→TDD→代码审查→分支收尾）约束 AI 代理遵循工程纪律，而非自由发挥。
 related:
-  - [[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
-  - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
+  - "[[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
+  - "[[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]"
 ---
 
 # obra/superpowers - Agentic Skills Framework

@@ -20,11 +20,11 @@ source_author: Tencent
 source_date: 2026-09-24
 summary: 腾讯开源的浏览器自动化 Skill：CLI（bsk）+ Chrome/Edge 扩展，让 Cursor/Claude Code/Codex 等 Agent 在你已登录的真实浏览器里读写页面、填表、截图与调试网站，任务在独立 Agent Window 可见执行。
 related:
-  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]
-  - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Bright Data CLI - 终端网页数据采集工具|Bright Data CLI - 终端网页数据采集工具]]
-  - [[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]
-  - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
-  - [[40 知识导航/AI 工具使用|AI 工具使用]]
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]"
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Bright Data CLI - 终端网页数据采集工具|Bright Data CLI - 终端网页数据采集工具]]"
+  - "[[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]"
+  - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
+  - "[[40 知识导航/AI 工具使用|AI 工具使用]]"
 ---
 
 # BrowserSkill - AI Agent 登录态浏览器操控

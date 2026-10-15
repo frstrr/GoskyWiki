@@ -48,3 +48,4 @@ summary: 汇总 AI 编码助手、LLM API 使用技巧、成本优化、prompt �
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/dsh-blender - DSH Blender 3D 生产插件|dsh-blender - DSH Blender 3D 生产插件]]：DeepSeek Harness 的 Blender 3D 生产插件（后台进程 + Skill/Helper 验收闭环）
 
 - [[50 来源资料/代码仓库/AI/多模态与模型/Modly - 本地AI图像转3D桌面应用|Modly - 本地 AI 图像转 3D 桌面应用]]：本地 GPU 图像/提示词转三维网格，扩展模型 + 工作流 + Agent CLI
+- [[50 来源资料/代码仓库/AI/Agent工具与中间件/ego-lite - AI Agent 人机并行浏览器|ego-lite - AI Agent 人机并行浏览器]]：面向 Agent 的 Chromium，人机 Space 并行、语义快照降 Token，复用 Chrome 登录态（macOS）

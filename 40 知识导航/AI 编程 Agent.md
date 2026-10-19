@@ -4,7 +4,7 @@ title: AI 编程 Agent
 type: moc
 status: active
 created: 2026-06-18
-updated: 2026-10-15
+updated: 2026-10-19
 tags:
   - 导航/人工智能
   - 主题/AI编程Agent
@@ -59,3 +59,4 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 - [[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenAgentCore - OpenAI Agents API 自托管运行时|OpenAgentCore - OpenAI Agents API 自托管运行时]]：MiniMax 开源自托管 OpenAI Agents API，多原生 Harness（Codex/Claude Code/MiniMax Code）+ 可插拔沙箱
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/codex-with-chatgpt - ChatGPT 规划大脑与 Codex 执行桥|codex-with-chatgpt - ChatGPT 规划大脑与 Codex 执行桥]]：把 ChatGPT 网页版当 Codex 的规划/审查大脑，只读 MCP + OAuth，执行权仍在 Codex
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/ego-lite - AI Agent 人机并行浏览器|ego-lite - AI Agent 人机并行浏览器]]：Agent 专用浏览器（Space 并行 + ego-browser Skill），与 BrowserSkill 互补
+- [[50 来源资料/代码仓库/AI/Agent运行时与编排/Reasonix - DeepSeek 缓存优先编码 Agent|Reasonix - DeepSeek 缓存优先编码 Agent]]：DeepSeek 缓存优先开源编码 Agent，三层上下文隔离，实测命中率可达 99.82%；CLI/桌面/VS Code，MIT

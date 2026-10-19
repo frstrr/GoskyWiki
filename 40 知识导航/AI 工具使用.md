@@ -4,7 +4,7 @@ title: AI 工具使用
 type: moc
 status: active
 created: 2026-04-10
-updated: 2026-10-15
+updated: 2026-10-19
 tags:
   - 导航/人工智能
   - 主题/AI工具
@@ -49,3 +49,5 @@ summary: 汇总 AI 编码助手、LLM API 使用技巧、成本优化、prompt �
 
 - [[50 来源资料/代码仓库/AI/多模态与模型/Modly - 本地AI图像转3D桌面应用|Modly - 本地 AI 图像转 3D 桌面应用]]：本地 GPU 图像/提示词转三维网格，扩展模型 + 工作流 + Agent CLI
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/ego-lite - AI Agent 人机并行浏览器|ego-lite - AI Agent 人机并行浏览器]]：面向 Agent 的 Chromium，人机 Space 并行、语义快照降 Token，复用 Chrome 登录态（macOS）
+- [[30 知识资源/AI/用AI更有野心的四维方法|用AI更有野心的四维方法]]：速度/高度/深度/广度抬目标；专家工具+外部验证+名词改动词
+- [[50 来源资料/文章/用AI更有野心 - Claude Code负责人方法教程|用AI更有野心：Claude Code负责人的方法教程]]

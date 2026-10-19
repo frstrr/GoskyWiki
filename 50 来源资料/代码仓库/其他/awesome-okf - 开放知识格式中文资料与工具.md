@@ -4,7 +4,7 @@ title: awesome-okf - 开放知识格式中文资料与工具
 type: source
 status: active
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-10-19
 tags:
   - 来源/代码仓库
   - 主题/个人知识管理
@@ -18,6 +18,7 @@ source_author: 云中江树 / yzfly
 source_date: 2026-09-09
 summary: 中文世界 OKF（开放知识格式）落点仓库：规范中文翻译、7 个 producer 插件（飞书/Obsidian/Notion/GitHub/awesome/HTML→OKF）、7 个 Claude Code skill、上游扩展提案，以及符合 OKF v0.2 的自托管 bundle 范例；MIT 许可，约 66 Stars。
 related:
+  - "[[50 来源资料/代码仓库/AI/RAG知识与记忆/open-knowledge-format - 开放知识格式 OKF|open-knowledge-format - 开放知识格式 OKF]]"
   - "[[30 知识资源/其他/Obsidian 个人知识库方法论|Obsidian 个人知识库方法论]]"
   - "[[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]"
   - "[[40 知识导航/Obsidian 与 AI|Obsidian 与 AI]]"
@@ -152,6 +153,7 @@ myokf to-web ./kb -o kb.html
 
 ## Related
 
+- [[50 来源资料/代码仓库/AI/RAG知识与记忆/open-knowledge-format - 开放知识格式 OKF|open-knowledge-format - 开放知识格式 OKF]]
 - [[30 知识资源/其他/Obsidian 个人知识库方法论|Obsidian 个人知识库方法论]]
 - [[30 知识资源/其他/Obsidian 知识库自动沉淀工作流|Obsidian 知识库自动沉淀工作流]]
 - [[40 知识导航/Obsidian 与 AI|Obsidian 与 AI]]

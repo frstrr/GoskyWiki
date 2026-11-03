@@ -66,3 +66,4 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 - [[50 来源资料/代码仓库/AI/Agent运行时与编排/Reasonix - DeepSeek 缓存优先编码 Agent|Reasonix - DeepSeek 缓存优先编码 Agent]]：DeepSeek 缓存优先开源编码 Agent，三层上下文隔离，实测命中率可达 99.82%；CLI/桌面/VS Code，MIT
 
 - [[50 来源资料/代码仓库/AI/Agent运行时与编排/Codex - OpenAI 终端 Coding Agent|Codex - OpenAI 终端 Coding Agent]]：OpenAI 官方本地终端 Coding Agent（Rust / Apache-2.0），交互 TUI + exec/CI + review + Skills/MCP/云端交接
+- [[50 来源资料/代码仓库/AI/Agent工具与中间件/Windows-MCP - Windows 桌面 Computer Use MCP|Windows-MCP - Windows 桌面 Computer Use MCP]]：Windows Computer Use MCP（UIA，非 OCR），给 Agent 系统级动手能力

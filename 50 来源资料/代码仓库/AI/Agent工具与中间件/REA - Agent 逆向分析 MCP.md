@@ -158,3 +158,4 @@ npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --
 - [[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]
 - [[40 知识导航/AI 编程 Agent|AI 编程 Agent]]
 - [[40 知识导航/AI 工具使用|AI 工具使用]]
+- [[50 来源资料/代码仓库/其他/awesome-reverse-engineering - 逆向工程工具与学习资源精选|awesome-reverse-engineering - 逆向工程工具与学习资源精选]]

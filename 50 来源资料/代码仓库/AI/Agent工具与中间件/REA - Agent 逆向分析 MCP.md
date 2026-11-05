@@ -4,7 +4,7 @@ title: REA - Agent 逆向分析 MCP
 type: source
 status: active
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-05
 tags:
   - 来源/代码仓库
   - 主题/AI
@@ -21,6 +21,7 @@ source_author: morluto
 source_date: 2026-10-12
 summary: "面向 AI Agent 的逆向分析 MCP/CLI（npm 包 rea-agents）：把 Ghidra/Hopper/IDA 等引擎与 JS/Electron、.NET、APK、浏览器等检查能力接到 Claude Code / Cursor / Codex 等 Agent，本机分析并返回带证据的结论。"
 related:
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Craft Anything - AI 研究重建检查引擎|Craft Anything]]"
   - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/BrowserSkill - AI Agent 登录态浏览器操控|BrowserSkill - AI Agent 登录态浏览器操控]]"
   - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Agent-Reach - AI Agent 互联网接入能力层|Agent-Reach - AI Agent 互联网接入能力层]]"
   - "[[50 来源资料/代码仓库/AI/Agent运行时与编排/OpenClaw - 多平台 AI 助手|OpenClaw - 多平台 AI 助手]]"

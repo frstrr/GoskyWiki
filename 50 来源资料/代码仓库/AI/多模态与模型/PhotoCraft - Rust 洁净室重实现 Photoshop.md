@@ -4,7 +4,7 @@ title: PhotoCraft - Rust 洁净室重实现 Photoshop
 type: source
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-11-05
 tags:
   - 来源/代码仓库
   - 主题/AI
@@ -21,6 +21,7 @@ source_author: storytold
 source_date: 2026-10-08
 summary: ArtCraft 开源的专业图像编辑器：用纯 Rust 对 Adobe Photoshop 做洁净室（clean-room）重实现，支持图层/蒙版/调整图层/图层样式/文字/矢量/PSD，并可经 CLI、JSON 控制通道与 MCP 被 AI Agent 驱动。Early Alpha；双许可 MIT / Apache-2.0。
 related:
+  - "[[50 来源资料/代码仓库/AI/Agent工具与中间件/Craft Anything - AI 研究重建检查引擎|Craft Anything]]"
   - "[[50 来源资料/代码仓库/AI/多模态与模型/GenClaw - 代码驱动 Agent 图像生成|GenClaw]]"
   - "[[50 来源资料/代码仓库/AI/多模态与模型/OpenMontage - Agent 化视频制作系统|OpenMontage]]"
   - "[[40 知识导航/AI 编程 Agent|AI 编程 Agent]]"
@@ -108,6 +109,7 @@ cargo run --release -p photocraft
 
 | 应用 | 方向 | 仓库 |
 |------|------|------|
+| **Craft Anything** | 研究 / 重建 / 检查任意目标 | https://github.com/storytold/craft-anything |
 | **PhotoCraft** | 图像编辑 / PSD | https://github.com/storytold/photocraft |
 | **VectorCraft** | 矢量插画 | https://github.com/storytold/vectorcraft |
 | **FilmCraft** | 视频剪辑、调色与声音 | https://github.com/storytold/filmcraft |

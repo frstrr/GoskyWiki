@@ -4,7 +4,7 @@ title: AI 工具使用
 type: moc
 status: active
 created: 2026-04-10
-updated: 2026-11-03
+updated: 2026-11-06
 tags:
   - 导航/人工智能
   - 主题/AI工具
@@ -46,6 +46,7 @@ summary: 汇总 AI 编码助手、LLM API 使用技巧、成本优化、prompt �
 - [[50 来源资料/代码仓库/AI/RAG知识与记忆/PAXM - Coding Agent 中立记忆适配器|PAXM - Coding Agent 中立记忆适配器]]：跨 Coding Agent 的持久记忆适配器，默认本地 SQLite，可换 Mem0/Zep 等 provider
 - [[50 来源资料/代码仓库/AI/UI设计与美学/Ming-Image-0.1-Design - 视觉设计生成与图层分解|Ming-Image-0.1-Design - 视觉设计生成与图层分解]]：蚂蚁百灵 6B 文生设计 + 图层分解 + UI/PPT Skills
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/dsh-blender - DSH Blender 3D 生产插件|dsh-blender - DSH Blender 3D 生产插件]]：DeepSeek Harness 的 Blender 3D 生产插件（后台进程 + Skill/Helper 验收闭环）
+- [[50 来源资料/代码仓库/AI/Agent工具与中间件/dsh-game-studio - DSH 游戏工坊插件|dsh-game-studio - DSH 游戏工坊插件]]：DSH 侧栏小游戏工坊（一句话生成、试玩验收、AI 换装、单文件导出）
 
 - [[50 来源资料/代码仓库/AI/多模态与模型/Strata - 消费级硬件本地大模型推理引擎|Strata - 消费级硬件本地大模型推理引擎]]：消费级硬件本地推理引擎，专家缓存+SSD 流式，OpenAI/Anthropic 兼容 API
 - [[50 来源资料/代码仓库/AI/多模态与模型/Modly - 本地AI图像转3D桌面应用|Modly - 本地 AI 图像转 3D 桌面应用]]：本地 GPU 图像/提示词转三维网格，扩展模型 + 工作流 + Agent CLI

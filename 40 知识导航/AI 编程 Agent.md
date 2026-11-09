@@ -4,7 +4,7 @@ title: AI 编程 Agent
 type: moc
 status: active
 created: 2026-06-18
-updated: 2026-11-03
+updated: 2026-11-09
 tags:
   - 导航/人工智能
   - 主题/AI编程Agent
@@ -41,6 +41,7 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 - [[50 来源资料/代码仓库/AI/Skills与方法论/Archify - 交互式架构图 Agent Skill|Archify - 交互式架构图 Agent Skill]]：把想法/仓库变成可交互 HTML 架构图与 explainer 的 Agent Skill（Cursor/Claude Code/Codex/OpenCode）
 
 - [[50 来源资料/代码仓库/游戏开发/unity-agent-plugin - Unity官方Agent技能插件|unity-agent-plugin - Unity官方Agent技能插件]]：Unity 官方 Agent Skills 插件（正文在游戏开发分类；Skill + CLI + 编辑器控制）
+- [[50 来源资料/代码仓库/游戏开发/awesome-gamedev-agent-skills - 多引擎游戏开发Agent Skills合集|awesome-gamedev-agent-skills - 多引擎游戏开发Agent Skills合集]]：多引擎游戏开发 77 Skills + 路由器（正文在游戏开发分类）
 
 ## 后续可扩展方向
 

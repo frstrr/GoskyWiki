@@ -4,7 +4,7 @@ title: AI 编程 Agent
 type: moc
 status: active
 created: 2026-06-18
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - 导航/人工智能
   - 主题/AI编程Agent
@@ -68,3 +68,5 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 
 - [[50 来源资料/代码仓库/AI/Agent运行时与编排/Codex - OpenAI 终端 Coding Agent|Codex - OpenAI 终端 Coding Agent]]：OpenAI 官方本地终端 Coding Agent（Rust / Apache-2.0），交互 TUI + exec/CI + review + Skills/MCP/云端交接
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Windows-MCP - Windows 桌面 Computer Use MCP|Windows-MCP - Windows 桌面 Computer Use MCP]]：Windows Computer Use MCP（UIA，非 OCR），给 Agent 系统级动手能力
+
+- [[50 来源资料/代码仓库/AI/Agent工具与中间件/冷咖啡 gpt6-Astra - 多 Agent 破甲工作台|冷咖啡 gpt6-Astra - 多 Agent 破甲工作台]]：十五席位开源技能一键备份写入/卸载桌面工作台，附中转可视化与工具箱

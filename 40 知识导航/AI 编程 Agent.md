@@ -4,7 +4,7 @@ title: AI 编程 Agent
 type: moc
 status: active
 created: 2026-06-18
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - 导航/人工智能
   - 主题/AI编程Agent
@@ -31,9 +31,11 @@ summary: AI 编程 Agent 主题导航，用于组织 Agent 框架对比、OpenCo
 - [[30 知识资源/AI/OpenCode Agent 编排核心原理|OpenCode Agent 编排核心原理]]
 - [[30 知识资源/AI/AI编程Agent Skills方法论|AI编程Agent Skills方法论]]
 - [[30 知识资源/AI/复杂任务下 AI 连贯开发工作流|复杂任务下 AI 连贯开发工作流]]
+- [[30 知识资源/AI/Poteto倒金字塔 - Agent信任环境工程|Poteto倒金字塔 - Agent信任环境工程]]：五层信任环境；审证据不审代码；纠正即落确定性检查
 
 ## 来源资料
 
+- [[50 来源资料/文章/All Code Is Slop深度解析 - 如何让Agent写不出垃圾代码|All Code Is Slop深度解析]]：Lauren Tan（poteto）AI Engineer CODE 2026 演讲全文整理（含幻灯片图）
 - [[50 来源资料/代码仓库/AI/Skills与方法论/mattpocock skills - AI编程Agent Skills|mattpocock skills - AI编程Agent Skills]]
 
 - [[50 来源资料/代码仓库/AI/Skills与方法论/Superpowers - Agent Skills 框架|Superpowers - Agent Skills 框架]]：obra 开源的 Agentic Skills 框架与完整 SDLC 方法论，279k+ Stars，支持 Cursor/Claude Code/Codex 等 15+ 平台

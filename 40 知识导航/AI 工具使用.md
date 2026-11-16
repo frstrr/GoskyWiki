@@ -4,7 +4,7 @@ title: AI 工具使用
 type: moc
 status: active
 created: 2026-04-10
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - 导航/人工智能
   - 主题/AI工具
@@ -53,6 +53,8 @@ summary: 汇总 AI 编码助手、LLM API 使用技巧、成本优化、prompt �
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/ego-lite - AI Agent 人机并行浏览器|ego-lite - AI Agent 人机并行浏览器]]：面向 Agent 的 Chromium，人机 Space 并行、语义快照降 Token，复用 Chrome 登录态（macOS）
 - [[30 知识资源/AI/用AI更有野心的四维方法|用AI更有野心的四维方法]]：速度/高度/深度/广度抬目标；专家工具+外部验证+名词改动词
 - [[50 来源资料/文章/用AI更有野心 - Claude Code负责人方法教程|用AI更有野心：Claude Code负责人的方法教程]]
+- [[30 知识资源/AI/Poteto倒金字塔 - Agent信任环境工程|Poteto倒金字塔 - Agent信任环境工程]]：Agent 信任环境五层模型；审证据不审代码
+- [[50 来源资料/文章/All Code Is Slop深度解析 - 如何让Agent写不出垃圾代码|All Code Is Slop深度解析]]：poteto 演讲全文整理（含图片）
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/Windows-MCP - Windows 桌面 Computer Use MCP|Windows-MCP - Windows 桌面 Computer Use MCP]]：Windows 原生 UIA 的 Computer Use MCP，任意 LLM 可操控桌面
 
 - [[50 来源资料/代码仓库/AI/Agent工具与中间件/冷咖啡 gpt6-Astra - 多 Agent 破甲工作台|冷咖啡 gpt6-Astra - 多 Agent 破甲工作台]]：多 AI 客户端开源破甲技能安装器 + coldcoffeeai 中转（资源索引，注意合规）
